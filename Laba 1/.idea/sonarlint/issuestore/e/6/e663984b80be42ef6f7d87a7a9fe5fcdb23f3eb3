@@ -1,0 +1,15 @@
+
+dsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8§Ûˆ”.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(«ĞÉ·8ùÜˆ”.
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8›€Ùˆ”.
+^squid:S2134"@Don't extend "Thread", since the "run" method is not overridden.(ñ‘¦8ÜšÉˆ”.
+dsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8›€Ùˆ”.
+[
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(îÓêåüÿÿÿÿ8¡³Öˆ”.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(œÜ ”úÿÿÿÿ8ùÜˆ”.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(‘î‹“şÿÿÿÿ8¤Şˆ”.
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8§Ûˆ”.
