@@ -9,18 +9,20 @@ public class Main implements Runnable{
         counter2 = new Counter2();
 
         Thread thread1 = new Thread(new Main());
-        thread1.start();
         Thread thread2 = new Thread(new Main());
+        thread1.start();
         thread2.start();
         thread1.join();
         thread2.join();
-        System.out.println(counter2.value());
+        System.out.println(counter2.value1());
+        System.out.println(counter2.value2());
     }
 
     @Override
     public void run() {
         try {
-            counter2.increment();
+            counter2.increment1();
+            counter2.increment2();
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
