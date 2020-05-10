@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a653959-939e-4375-b883-cbd28c49c9ff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/f/1f7578a6ba736e94b8823d450e8463e8522e0e85" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laba 1/com/company/ChickenVoice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laba 1/com/company/EggVoice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/ChickenVoice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/EggVoice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Voice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laba 4/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../Laba 4/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laba 4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Laba 4/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +28,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Laba 4" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -87,12 +79,24 @@
       <option name="presentableId" value="Default" />
       <updated>1585934267900</updated>
       <workItem from="1585934271299" duration="1126000" />
-      <workItem from="1589097808502" duration="1988000" />
+      <workItem from="1589097808502" duration="2182000" />
     </task>
+    <task id="LOCAL-00001" summary="individual task lab1 yura">
+      <created>1589099949460</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589099949460</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="individual task lab1 yura" />
+    <option name="LAST_COMMIT_MESSAGE" value="individual task lab1 yura" />
   </component>
   <component name="WindowStateProjectService">
     <state x="715" y="217" key="#com.intellij.ide.util.MemberChooser" timestamp="1589097956949">
@@ -104,22 +108,30 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="620" y="304" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1589097828260" />
-    <state width="1493" height="252" key="GridCell.Tab.0.bottom" timestamp="1589099906851">
+    <state x="406" y="9" key="CommitChangelistDialog2" timestamp="1589099947522">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="252" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589099906851" />
-    <state width="1493" height="252" key="GridCell.Tab.0.center" timestamp="1589099906851">
+    <state x="406" y="9" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1589099947522" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1589099990741">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="252" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589099906851" />
-    <state width="1493" height="252" key="GridCell.Tab.0.left" timestamp="1589099906851">
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589099990741" />
+    <state width="1493" height="242" key="GridCell.Tab.0.bottom" timestamp="1589099991811">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="252" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589099906851" />
-    <state width="1493" height="252" key="GridCell.Tab.0.right" timestamp="1589099906851">
+    <state width="1493" height="242" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589099991811" />
+    <state width="1493" height="242" key="GridCell.Tab.0.center" timestamp="1589099991811">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="252" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589099906851" />
+    <state width="1493" height="242" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589099991811" />
+    <state width="1493" height="242" key="GridCell.Tab.0.left" timestamp="1589099991811">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="242" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589099991811" />
+    <state width="1493" height="242" key="GridCell.Tab.0.right" timestamp="1589099991811">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="242" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589099991811" />
     <state width="1493" height="55" key="GridCell.Tab.1.bottom" timestamp="1585935399888">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
