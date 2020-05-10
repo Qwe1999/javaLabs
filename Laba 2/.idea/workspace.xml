@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7ee76e2-2455-426f-a55e-ba7baf785b11" name="Default Changelist" comment="" />
+    <list default="true" id="d7ee76e2-2455-426f-a55e-ba7baf785b11" name="Default Changelist" comment="fixed lab 2">
+      <change afterPath="$PROJECT_DIR$/../Laba 1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba 1/src/com/company/CatVoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba 3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba 1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Laba 1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba 1/.idea/sonarlint/issuestore/d/3/d3b961673a997fd49504fba9fb623da9851cc0e2" beforeDir="false" afterPath="$PROJECT_DIR$/../Laba 1/.idea/sonarlint/issuestore/d/3/d3b961673a997fd49504fba9fb623da9851cc0e2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba 1/.idea/sonarlint/issuestore/e/6/e663984b80be42ef6f7d87a7a9fe5fcdb23f3eb3" beforeDir="false" afterPath="$PROJECT_DIR$/../Laba 1/.idea/sonarlint/issuestore/e/6/e663984b80be42ef6f7d87a7a9fe5fcdb23f3eb3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba 1/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../Laba 1/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba 1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Laba 1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba 1/out/production/Laba 1/com/company/ChickenVoice.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Laba 1/out/production/Laba 1/com/company/ChickenVoice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba 1/out/production/Laba 1/com/company/EggVoice.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Laba 1/out/production/Laba 1/com/company/EggVoice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba 1/src/com/company/ChickenVoice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Laba 1/src/com/company/ChickenVoice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba 1/src/com/company/EggVoice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Laba 1/src/com/company/EggVoice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/a/4a831b10439099d44774d0ccc387e808deffaeab" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/a/4a831b10439099d44774d0ccc387e808deffaeab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/3/f37a06a713df9a66bb7b609b0c67a078bba318c8" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/3/f37a06a713df9a66bb7b609b0c67a078bba318c8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laba 2/com/company/Counter2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laba 2/com/company/Counter2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laba 2/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laba 2/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba 3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Laba 3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba 3/.idea/sonarlint/issuestore/4/a/4a831b10439099d44774d0ccc387e808deffaeab" beforeDir="false" afterPath="$PROJECT_DIR$/../Laba 3/.idea/sonarlint/issuestore/4/a/4a831b10439099d44774d0ccc387e808deffaeab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba 3/.idea/sonarlint/issuestore/e/1/e1e3b5c78a04a0f6390386758048a23337447f7c" beforeDir="false" afterPath="$PROJECT_DIR$/../Laba 3/.idea/sonarlint/issuestore/e/1/e1e3b5c78a04a0f6390386758048a23337447f7c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba 3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Laba 3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba 3/out/production/Laba 3/com/company/Conflict.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Laba 3/out/production/Laba 3/com/company/Conflict.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba 3/out/production/Laba 3/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Laba 3/out/production/Laba 3/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba 3/out/production/Laba 3/com/company/Thread1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba 3/out/production/Laba 3/com/company/Thread2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba 4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Laba 4/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,16 +44,28 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1a2Yx1UsOqHkH4bYrP8ctj6rWRS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Laba 1" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -42,6 +84,18 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -54,33 +108,60 @@
       <updated>1585935398061</updated>
       <workItem from="1585935401266" duration="1667000" />
       <workItem from="1587632692989" duration="1165000" />
+      <workItem from="1589049074167" duration="434000" />
+      <workItem from="1589054696088" duration="197000" />
+      <workItem from="1589095064424" duration="685000" />
     </task>
+    <task id="LOCAL-00001" summary="fixed lab 2">
+      <created>1589054879404</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589054879404</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fixed lab 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed lab 2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="574" y="120" key="#com.intellij.ide.util.MemberChooser" timestamp="1585935742001">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="120" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1585935742001" />
-    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1585937069802">
+    <state x="620" y="304" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1589049147837">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585937069802" />
-    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1585937069802">
+    <state x="620" y="304" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1589049147837" />
+    <state x="392" y="9" key="CommitChangelistDialog2" timestamp="1589095405388">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585937069802" />
-    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1585937069802">
+    <state x="392" y="9" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1589095405388" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1589095749565">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585937069802" />
-    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1585937069802">
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589095749565" />
+    <state width="1493" height="424" key="GridCell.Tab.0.bottom" timestamp="1589054892824">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585937069802" />
+    <state width="1493" height="424" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589054892824" />
+    <state width="1493" height="424" key="GridCell.Tab.0.center" timestamp="1589054892824">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="424" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589054892824" />
+    <state width="1493" height="424" key="GridCell.Tab.0.left" timestamp="1589054892823">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="424" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589054892823" />
+    <state width="1493" height="424" key="GridCell.Tab.0.right" timestamp="1589054892824">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="424" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589054892824" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1585937069802">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -97,6 +178,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585937069802" />
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1589054882238">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1589054882238" />
+    <state x="477" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1589095066941">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1589095066941" />
     <state x="209" y="40" key="new project wizard" timestamp="1585937067567">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -105,17 +194,9 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/com/company/Counter2.java</url>
-          <line>7</line>
-          <properties class="com.company.Counter2" method="increment">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
-          <line>26</line>
+          <line>28</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
