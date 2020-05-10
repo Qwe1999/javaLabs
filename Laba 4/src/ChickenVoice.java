@@ -1,14 +1,15 @@
-package com.company;
+import java.util.concurrent.locks.ReentrantLock;
 
 import static java.lang.Thread.sleep;
 
 public class ChickenVoice {
 
     static EggVoice mAnotherOpinion;
+    static ReentrantLock reentrantLock = new ReentrantLock();
 
     public static void main(String[] args) {
 
-        mAnotherOpinion = new EggVoice();
+        mAnotherOpinion = new EggVoice(reentrantLock);
         Thread thread = new Thread(mAnotherOpinion);
 
         System.out.println("Початок суперечки");
@@ -24,7 +25,7 @@ public class ChickenVoice {
             System.out.println("Курка");
         }
 
-            if (thread.isAlive()) {
+            if (reentrantLock.tryLock()) {
                 try {
                     thread.join();
                 } catch (InterruptedException e) {
