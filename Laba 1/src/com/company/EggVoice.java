@@ -1,11 +1,13 @@
 package com.company;
 
-public class EggVoice extends Thread {
+import static java.lang.Thread.sleep;
+
+public class EggVoice implements Runnable {
     @Override
     public void run() {
         for (int i = 0; i < 5; i++) {
             try {
-                sleep(1000);
+                sleep(500);
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }

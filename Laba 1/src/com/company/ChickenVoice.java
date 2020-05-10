@@ -1,25 +1,32 @@
 package com.company;
 
-public class ChickenVoice extends  Thread{
+import static java.lang.Thread.sleep;
 
-    static EggVoice  mAnotherOpinion;
+public class ChickenVoice {
+
+    static EggVoice mAnotherOpinion;
 
     public static void main(String[] args) {
 
         mAnotherOpinion = new EggVoice();
-        System.out.println("Початок суперечки");
-        mAnotherOpinion.start();
+        Thread thread = new Thread(mAnotherOpinion);
 
-        for (int i = 0; i <5 ; i++) {
+        System.out.println("Початок суперечки");
+        thread.start();
+
+        for (int i = 0; i < 5; i++) {
             try {
-                sleep(1000);
+                sleep(500);
+
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
+            System.out.println("Курка");
+        }
 
-            if (mAnotherOpinion.isAlive()){
+            if (thread.isAlive()) {
                 try {
-                    mAnotherOpinion.join();
+                    thread.join();
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 }
@@ -29,7 +36,7 @@ public class ChickenVoice extends  Thread{
                 System.out.println("Першою була курка");
             }
             System.out.println("Завершення суперечки");
-        }
     }
+
 
 }
